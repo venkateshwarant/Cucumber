@@ -12,4 +12,4 @@ The test cases will be similar to that of [TestNG tutorial](https://github.com/a
 Laptop with at least 8 Gb memory (recommended 16 Gb, ideally 32 Gb)
 
 ### IDE
-In this tutorial we will use IntelliJ IDEA, because it has a [IntelliJ IDEA Cucumber for Java plugin]{https://plugins.jetbrains.com/plugin/7212-cucumber-for-java} to make our life easier.
+In this tutorial we will use IntelliJ IDEA, because it has a [IntelliJ IDEA Cucumber for Java plugin](https://plugins.jetbrains.com/plugin/7212-cucumber-for-java) to make our life easier.
