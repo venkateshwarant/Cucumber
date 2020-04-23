@@ -2,7 +2,7 @@
 Getting started with Cucumber BDD framework
 
 ## General overview
-This tutorial aims in writing behaviour driven user acceptance test cases by integrating cucumber and selenium. Similar to the previous tutorials we will consider the [Web-based Hello World case study](https://github.com/acapozucca/helloworld) as our product to be tested. 
+This tutorial aims in writing behaviour driven user acceptance test cases by integrating cucumber and selenium. Similar to the previous tutorials, we will consider the [Web-based Hello World case study](https://github.com/acapozucca/helloworld) as our product. 
 The test cases will be similar to that of [TestNG tutorial](https://github.com/acapozucca/TestNG), but here we will use the combination of JUnit-Cucumber-Selenium. JUnit for test cases, Cucumber for Behaviour driven development, and Selenium to write user acceptance test for our hello world web application.
 
 
