@@ -38,9 +38,15 @@ In this tutorial we will use IntelliJ IDEA as our IDE, because it has a [Intelli
 ## Terminologies used in cucumber BDD
 
 **Feature**: A feature would describe the current test script which has to be executed.
+
 **Scenario**: Scenario describes the steps and expected outcome for a particular test case.
+
 **Scenario Outline**: Same scenario can be executed for multiple sets of data using scenario outline. The data is provided by a tabular structure separated by (I I).
+
 **Given**: It specifies the context of the text to be executed. By using datatables "Given", step can also be parameterized.
+
 **When**: "When" specifies the test action that has to performed
+
 **Then**: The expected outcome of the test can be represented by "Then"
+
 
