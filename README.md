@@ -52,8 +52,11 @@ Laptop with at least 8 Gb memory (recommended 16 Gb, ideally 32 Gb)
 
 ## Project details
 Our project consist of three folders-
+
 i) feature
+
 ii) step
+
 iii) testcases
 
 ### Feature files
