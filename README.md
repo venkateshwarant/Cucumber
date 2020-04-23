@@ -1,4 +1,4 @@
-# Cucumber_Tutorial
+# Cucumber Tutorial
 Getting started with Cucumber BDD framework
 
 ## General overview
