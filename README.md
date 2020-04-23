@@ -87,7 +87,7 @@ To run the cucumber test case with maven, we need to write a test case which glu
 The step file location should be given inside glue, and no method in the step file should be ambiguous.
 
 ## Test case details
-* Please refer to the [TestNG tutorial](https://github.com/acapozucca/TestNG). The test cases in this tutorial are same as that of that tutorial.
+* Please refer to the [TestNG tutorial](https://github.com/acapozucca/TestNG). The test cases here are same as that of that tutorial.
 
 
 ## Running the test cases using IDE
