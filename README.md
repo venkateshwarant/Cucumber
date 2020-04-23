@@ -141,7 +141,7 @@ Tests run: 3, Failures: 0, Errors: 0, Skipped: 0
 
 These guidelines explain how to write behaviour driven development test cases using cucumber:
 
-- To write UAT integrating Cucumber, JUnit, Selenium
+- To write user acceptance test by integrating Cucumber, JUnit, Selenium
 - To run cucumber test cases using maven
 
 
